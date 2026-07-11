@@ -673,9 +673,14 @@ section {
   font-size: 14px;
 }
 
-.text-1{
+.text-heading{
   font-size: large;
-  color: #eb0505;
+  color: #a07840;
+  font-weight: bold;
+}
+.text-1{
+  font-size: medium;
+  color: #fffefe;
 }
 
 /* ── FOOTER ── */
